@@ -2,8 +2,8 @@
 
 ### 🧠 Projektüberblick
 
-🤖 **GAN-basiertes neuronales Netzwerk** zur Rekonstruktion und Verschlüsselung binärer Signale aus elektrischen Schaltungen.
-📧 Ziel ist die **intrinsisch verschlüsselte Übertragung** von Text- bzw. Zahleninformationen (dezimal → binär → dekodiert).
+🤖 **GAN-basiertes neuronales Netzwerk** zur Rekonstruktion und Verschlüsselung binärer Signale aus elektrischen Schaltungen.  
+📧 Ziel ist die **intrinsisch verschlüsselte Übertragung** von Text- bzw. Zahleninformationen (dezimal → binär → dekodiert).  
 
 ### 🎓 Lern- & Praxisziel
 
