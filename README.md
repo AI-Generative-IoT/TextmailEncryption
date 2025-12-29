@@ -1,47 +1,67 @@
-# GAN-Modell zur Verschlüsselung von E-Mail Textnachrichten 
-Die Studierenden erlernen die berufspraktisch relevante Anwendung von Methoden zur Analyse und Optimierung von elektrischen Netzwerken, indem unter Anleitung eines Betreuers (Dozent) ein Praxisseminar mit Unternehmensbezug im Bereich der Analyse und Optimierung eines elektrischen Netzwerks oder eine Fragestellung zur Erfassung und Analyse von Messdaten bearbeitet wird. In diesem Praxisprojekt ist es das Ziel in einem gemeinsamen Projekt mit insgesamt 5 Projektzyklen und einem Abschlussbericht eine Python Routine zu 
-programmieren, mithilfe derer man ein durch eine Schaltung erzeugtes binäres Signal mittels GAN-basiertem künstlichem neuronalen Netzwerk wiederherstellen kann, bzw. die möglichen Werte eines dezimalen Schlüssels generieren und dekodiert als binäre Zahenreihe transferieren kann, für welche man das Ausgangssignal im Binärformat erhält. Dies wird dadurch realisiert, dass man für eine gegebene Schaltung binäre Schlüsselwerte erzeugt und durch GAN-Modellierung unter Einbezug der Schaltung an den Referenzwert anpasst. Ein neuronales Netzwerk dieser Art lässt sich z. B. dazu nutzen, einzelne bzw. mehrere dezimale Zahlenwerte als Binärzahlen intrinsisch verschlüsselt zu übertragen.
+## 🔐 GAN-Modell zur Verschlüsselung von E-Mail-Textnachrichten
 
-# Installation unter Linux und Mac Betriebssystemen
-**************************************************************************************************************************************
-    git clone https://github.com/alexej-schelle/TextmailEncryption.git and start the software with the corresponding Python files
-**************************************************************************************************************************************
+### 🧠 Projektüberblick
 
-# Installation unter Windows Betriebssystemen
-**************************************************************************************************************************************
-    Download files at https://github.com/alexej-schelle/TextmailEncryption/ and start the software with the corresponding Python files
-**************************************************************************************************************************************
+🤖 **GAN-basiertes neuronales Netzwerk** zur Rekonstruktion und Verschlüsselung binärer Signale aus elektrischen Schaltungen.
+📧 Ziel ist die **intrinsisch verschlüsselte Übertragung** von Text- bzw. Zahleninformationen (dezimal → binär → dekodiert).
 
-# Dokumentation unter Linux, Mac und Windows Betriebssystemen
-**************************************************************************************************************************************
-    git clone https://github.com/alexej-schelle/TextmailEncryption/ and read docs/README.txt
-**************************************************************************************************************************************
+### 🎓 Lern- & Praxisziel
 
-# Dokumentierte Anwendungsszenarien
-***********************************************************************************************************************************************************************************************
+⚡ Anwendung von **Analyse- und Optimierungsmethoden elektrischer Netzwerke**
+👨‍🏫 Durchführung als **betreutes Praxisseminar** mit Unternehmensbezug
+🔁 **5 Projektzyklen** + 📄 Abschlussbericht
 
-    Please visit https://www.iu.org/ or ask at alexej.schelle.ext@iu.org.
+### 🧩 Technischer Kern
 
-***********************************************************************************************************************************************************************************************
+🐍 **Python-Routine**
+🔐 Generierung dezimaler Schlüssel → GAN-Modellierung → binäre Signalrekonstruktion
+🧬 Anpassung der Schlüsselwerte an **Referenzsignale einer gegebenen Schaltung**
+📡 Nutzung für **verschlüsselte Übertragung** einzelner oder mehrerer Zahlenwerte
 
-# Autoren
+---
 
-*********************************************************************************************************************
+### 💻 Installation
 
-   - Adrian Dahl
-   - Sven Engels
-   - Fritz Fischer
-   - Mert Köktürk
-   - Renars Miculis
-   - Sarah Rosa Werner
-   - Betül Yurtman
+🖥️ **Linux & macOS**
 
-   et
+```bash
+git clone https://github.com/alexej-schelle/TextmailEncryption.git
+```
 
-   - FH-Doz. Dr. A. Schelle.
-  
-*********************************************************************************************************************
+🪟 **Windows**
+⬇️ Download von:
+🔗 [https://github.com/alexej-schelle/TextmailEncryption/](https://github.com/alexej-schelle/TextmailEncryption/)
 
+### 📚 Dokumentation
 
+📄 Plattformübergreifend (Linux | macOS | Windows):
 
+```bash
+docs/README.txt
+```
 
+### 🌐 Anwendungsszenarien
+
+🔎 Weitere Informationen:
+🌍 [https://www.iu.org/](https://www.iu.org/)
+✉️ [alexej.schelle.ext@iu.org](mailto:alexej.schelle.ext@iu.org)
+
+---
+
+### 👥 Autoren
+
+👨‍💻👩‍💻
+
+* Adrian Dahl
+* Sven Engels
+* Fritz Fischer
+* Mert Köktürk
+* Renars Miculis
+* Sarah Rosa Werner
+* Betül Yurtman
+
+🎓 **Betreuung:** FH-Doz. Dr. A. Schelle
+
+---
+
+🔑 **Favicons / Key Icons:** 🔐 🤖 📧 ⚡ 🐍 🧬 🖥️ 🌍
