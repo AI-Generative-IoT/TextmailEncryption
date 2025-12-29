@@ -7,16 +7,16 @@
 
 ### 🎓 Lern- & Praxisziel
 
-⚡ Anwendung von **Analyse- und Optimierungsmethoden elektrischer Netzwerke**
-👨‍🏫 Durchführung als **betreutes Praxisseminar** mit Unternehmensbezug
-🔁 **5 Projektzyklen** + 📄 Abschlussbericht
+⚡ Anwendung von **Analyse- und Optimierungsmethoden elektrischer Netzwerke**  
+👨‍🏫 Durchführung als **betreutes Praxisseminar** mit Unternehmensbezug  
+🔁 **5 Projektzyklen** + 📄 Abschlussbericht  
 
 ### 🧩 Technischer Kern
 
 🐍 **Python-Routine**
-🔐 Generierung dezimaler Schlüssel → GAN-Modellierung → binäre Signalrekonstruktion
-🧬 Anpassung der Schlüsselwerte an **Referenzsignale einer gegebenen Schaltung**
-📡 Nutzung für **verschlüsselte Übertragung** einzelner oder mehrerer Zahlenwerte
+🔐 Generierung dezimaler Schlüssel → GAN-Modellierung → binäre Signalrekonstruktion  
+🧬 Anpassung der Schlüsselwerte an **Referenzsignale einer gegebenen Schaltung**  
+📡 Nutzung für **verschlüsselte Übertragung** einzelner oder mehrerer Zahlenwerte  
 
 ---
 
@@ -28,13 +28,13 @@
 git clone https://github.com/alexej-schelle/TextmailEncryption.git
 ```
 
-🪟 **Windows**
-⬇️ Download von:
+🪟 **Windows**  
+⬇️ Download von:  
 🔗 [https://github.com/alexej-schelle/TextmailEncryption/](https://github.com/alexej-schelle/TextmailEncryption/)
 
 ### 📚 Dokumentation
 
-📄 Plattformübergreifend (Linux | macOS | Windows):
+📄 Plattformübergreifend (Linux | macOS | Windows):  
 
 ```bash
 docs/README.txt
@@ -42,15 +42,15 @@ docs/README.txt
 
 ### 🌐 Anwendungsszenarien
 
-🔎 Weitere Informationen:
-🌍 [https://www.iu.org/](https://www.iu.org/)
-✉️ [alexej.schelle.ext@iu.org](mailto:alexej.schelle.ext@iu.org)
+🔎 Weitere Informationen:  
+🌍 [https://www.iu.org/](https://www.iu.org/)  
+✉️ [alexej.schelle.ext@iu.org](mailto:alexej.schelle.ext@iu.org)  
 
 ---
 
 ### 👥 Autoren
 
-👨‍💻👩‍💻
+👨‍💻👩‍💻  
 
 * Adrian Dahl
 * Sven Engels
