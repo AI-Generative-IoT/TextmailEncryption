@@ -63,5 +63,3 @@ docs/README.txt
 🎓 **Betreuung:** FH-Doz. Dr. A. Schelle
 
 ---
-
-🔑 **Favicons / Key Icons:** 🔐 🤖 📧 ⚡ 🐍 🧬 🖥️ 🌍
